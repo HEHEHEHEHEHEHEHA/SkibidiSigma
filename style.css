@@ -1,8 +1,16 @@
+.sigma{
+    border: 3px solid;
+}
 .biggercontainer {
     display: flex;
 }
-.Skibidi{
-    height: 300px;
-    width: 400px;
+.smallercontainer{
     display: flex;
+}
+.Skibidi{
+    flex:3;
+}
+.textOnSide{
+    border: 3px solid;
+    flex:1;
 }
