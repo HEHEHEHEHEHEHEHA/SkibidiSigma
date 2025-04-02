@@ -9,8 +9,13 @@
 }
 .Skibidi{
     flex:3;
+    display:flex;
 }
 .textOnSide{
     border: 3px solid;
     flex:1;
 }
+.Caption1{
+    display: block ;
+}
+
